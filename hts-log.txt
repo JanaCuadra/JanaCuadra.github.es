@@ -1,0 +1,150 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 27 Sep 2023 12:07:35 at http://luisnascimento.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://luisnascimento.com/ -O1 "C:\My Web Sites\janacuadra" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:07:37	Warning: 	Note: due to luisnascimento.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+12:09:12	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): luisnascimento.com/wp-content/themes/salient/css/fonts/default_ext_chars/OpenSans-Semibold-webfont.ttf
+12:32:29	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): luisnascimento.com/wp-content/plugins/gallery-images/assets/js/view-slider.js?ver=1.0.0
+12:57:40	Error: 	"Not Found" (404) at link luisnascimento.com/wp-content/themes/salient/img/icons/social/vimeo-header-black.png (from luisnascimento.com/wp-content/themes/salient/style.css?ver=5.5.4)
+12:57:40	Error: 	"Not Found" (404) at link luisnascimento.com/wp-content/themes/salient/img/icons/social/behance-header-black.png (from luisnascimento.com/wp-content/themes/salient/style.css?ver=5.5.4)
+12:57:40	Error: 	"Not Found" (404) at link luisnascimento.com/wp-content/themes/salient/img/stock/icons/magnify.png (from luisnascimento.com/wp-content/themes/salient/style.css?ver=5.5.4)
+12:57:40	Error: 	"Not Found" (404) at link luisnascimento.com/wp-content/themes/salient/img/stock/icons/link.png (from luisnascimento.com/wp-content/themes/salient/style.css?ver=5.5.4)
+12:57:40	Error: 	"Not Found" (404) at link luisnascimento.com/wp-content/themes/salient/img/stock/icons/image.png (from luisnascimento.com/wp-content/themes/salient/style.css?ver=5.5.4)
+12:57:40	Error: 	"Not Found" (404) at link luisnascimento.com/wp-content/themes/salient/img/stock/icons/video.png (from luisnascimento.com/wp-content/themes/salient/style.css?ver=5.5.4)
+12:57:40	Error: 	"Not Found" (404) at link luisnascimento.com/wp-content/themes/salient/css/img/prettyPhoto/dark_rounded/loader.gif (from luisnascimento.com/wp-content/themes/salient/css/woocommerce.css?ver=5.2.18)
+12:57:40	Error: 	"Not Found" (404) at link luisnascimento.com/wp-content/themes/salient/css/img/prettyPhoto/dark_rounded/close.png (from luisnascimento.com/wp-content/themes/salient/css/woocommerce.css?ver=5.2.18)
+12:57:40	Warning: 	Moved Permanently for luisnascimento.com/?p=3576
+12:57:40	Warning: 	File has moved from luisnascimento.com/?p=3576 to http://luisnascimento.com/about-me/
+12:57:40	Warning: 	Moved Permanently for luisnascimento.com/?p=3579
+12:57:40	Warning: 	File has moved from luisnascimento.com/?p=3579 to http://luisnascimento.com/work/
+13:13:22	Warning: 	Moved Permanently for luisnascimento.com/?p=4304
+13:13:22	Warning: 	File has moved from luisnascimento.com/?p=4304 to http://luisnascimento.com/press/
+13:13:22	Warning: 	Moved Permanently for luisnascimento.com/?p=3367
+13:13:22	Warning: 	File has moved from luisnascimento.com/?p=3367 to http://luisnascimento.com/contact/
+13:13:22	Warning: 	Moved Permanently for luisnascimento.com/?p=4531
+13:13:22	Warning: 	File has moved from luisnascimento.com/?p=4531 to http://luisnascimento.com/portfolio/velvet/
+13:13:51	Warning: 	Moved Permanently for luisnascimento.com/?p=4505
+13:13:51	Warning: 	File has moved from luisnascimento.com/?p=4505 to http://luisnascimento.com/portfolio/bajouca-base/
+13:13:51	Warning: 	Moved Permanently for luisnascimento.com/?p=4563
+13:13:51	Warning: 	File has moved from luisnascimento.com/?p=4563 to http://luisnascimento.com/portfolio/mercury/
+13:13:51	Warning: 	Moved Permanently for luisnascimento.com/?p=4300
+13:13:51	Warning: 	File has moved from luisnascimento.com/?p=4300 to http://luisnascimento.com/portfolio/veneer-ii/
+13:13:51	Warning: 	Moved Permanently for luisnascimento.com/?p=4254
+13:13:51	Warning: 	File has moved from luisnascimento.com/?p=4254 to http://luisnascimento.com/portfolio/cork-spot/
+13:13:51	Warning: 	Moved Permanently for luisnascimento.com/?p=4235
+13:13:51	Warning: 	File has moved from luisnascimento.com/?p=4235 to http://luisnascimento.com/portfolio/around-the-corner/
+13:13:51	Warning: 	Moved Permanently for luisnascimento.com/?p=4149
+13:13:51	Warning: 	File has moved from luisnascimento.com/?p=4149 to http://luisnascimento.com/portfolio/rail/
+13:13:51	Warning: 	Moved Permanently for luisnascimento.com/?p=4134
+13:13:51	Warning: 	File has moved from luisnascimento.com/?p=4134 to http://luisnascimento.com/portfolio/loop/
+13:13:51	Warning: 	Moved Permanently for luisnascimento.com/?p=4112
+13:13:51	Warning: 	File has moved from luisnascimento.com/?p=4112 to http://luisnascimento.com/portfolio/lucca/
+13:13:51	Warning: 	Moved Permanently for luisnascimento.com/?p=4077
+13:13:51	Warning: 	File has moved from luisnascimento.com/?p=4077 to http://luisnascimento.com/portfolio/veneer/
+13:13:51	Warning: 	Moved Permanently for luisnascimento.com/?p=4059
+13:13:51	Warning: 	File has moved from luisnascimento.com/?p=4059 to http://luisnascimento.com/portfolio/surface/
+13:13:52	Warning: 	Moved Permanently for luisnascimento.com/?p=3991
+13:13:52	Warning: 	File has moved from luisnascimento.com/?p=3991 to http://luisnascimento.com/portfolio/beach-hut/
+13:13:52	Warning: 	Moved Permanently for luisnascimento.com/?p=3771
+13:13:52	Warning: 	File has moved from luisnascimento.com/?p=3771 to http://luisnascimento.com/portfolio/roof/
+13:13:52	Warning: 	Moved Permanently for luisnascimento.com/?p=3777
+13:13:52	Warning: 	File has moved from luisnascimento.com/?p=3777 to http://luisnascimento.com/portfolio/filter/
+13:13:52	Warning: 	Moved Permanently for luisnascimento.com/?p=3763
+13:13:52	Warning: 	File has moved from luisnascimento.com/?p=3763 to http://luisnascimento.com/portfolio/gradient/
+13:13:52	Warning: 	Moved Permanently for luisnascimento.com/?p=3785
+13:13:52	Warning: 	File has moved from luisnascimento.com/?p=3785 to http://luisnascimento.com/portfolio/pencil/
+13:13:52	Warning: 	Moved Permanently for luisnascimento.com/?p=3821
+13:13:52	Warning: 	File has moved from luisnascimento.com/?p=3821 to http://luisnascimento.com/portfolio/universal/
+13:13:52	Warning: 	Moved Permanently for luisnascimento.com/?p=3849
+13:13:52	Warning: 	File has moved from luisnascimento.com/?p=3849 to http://luisnascimento.com/portfolio/bastidor/
+13:13:52	Warning: 	Moved Permanently for luisnascimento.com/?p=3805
+13:13:52	Warning: 	File has moved from luisnascimento.com/?p=3805 to http://luisnascimento.com/portfolio/honeycomb/
+13:13:52	Warning: 	Moved Permanently for luisnascimento.com/?p=4031
+13:13:52	Warning: 	File has moved from luisnascimento.com/?p=4031 to http://luisnascimento.com/portfolio/cover/
+13:13:52	Warning: 	Moved Permanently for luisnascimento.com/?p=4539
+13:13:52	Warning: 	File has moved from luisnascimento.com/?p=4539 to http://luisnascimento.com/2019/09/28/tasco-tableware-collection/
+13:21:37	Warning: 	Moved Permanently for luisnascimento.com/?p=4488
+13:21:37	Warning: 	File has moved from luisnascimento.com/?p=4488 to http://luisnascimento.com/2019/08/22/tasco-by-vicara/
+13:21:38	Warning: 	Moved Permanently for luisnascimento.com/?p=4476
+13:21:38	Warning: 	File has moved from luisnascimento.com/?p=4476 to http://luisnascimento.com/2018/12/15/carrousel-des-metiers-dart-et-de-creation-2018/
+13:21:38	Warning: 	Moved Permanently for luisnascimento.com/?p=4467
+13:21:38	Warning: 	File has moved from luisnascimento.com/?p=4467 to http://luisnascimento.com/2018/10/23/handle-with-care/
+13:21:38	Warning: 	Moved Permanently for luisnascimento.com/?p=3877
+13:21:38	Warning: 	File has moved from luisnascimento.com/?p=3877 to http://luisnascimento.com/portfolio/play/
+13:21:38	Warning: 	Moved Permanently for luisnascimento.com/?p=3913
+13:21:38	Warning: 	File has moved from luisnascimento.com/?p=3913 to http://luisnascimento.com/portfolio/maceracao/
+13:21:38	Warning: 	Moved Permanently for luisnascimento.com/?p=3872
+13:21:38	Warning: 	File has moved from luisnascimento.com/?p=3872 to http://luisnascimento.com/portfolio/non-egocentric-graffiti/
+13:21:38	Warning: 	Moved Permanently for luisnascimento.com/?p=3889
+13:21:38	Warning: 	File has moved from luisnascimento.com/?p=3889 to http://luisnascimento.com/portfolio/sardine/
+13:21:38	Warning: 	Moved Permanently for luisnascimento.com/?p=3811
+13:21:38	Warning: 	File has moved from luisnascimento.com/?p=3811 to http://luisnascimento.com/portfolio/blue-ink/
+13:21:38	Warning: 	Moved Permanently for luisnascimento.com/?p=3838
+13:21:38	Warning: 	File has moved from luisnascimento.com/?p=3838 to http://luisnascimento.com/portfolio/crumpled/
+13:21:38	Warning: 	Moved Permanently for luisnascimento.com/?p=3831
+13:21:38	Warning: 	File has moved from luisnascimento.com/?p=3831 to http://luisnascimento.com/portfolio/faked-in-china/
+13:21:38	Warning: 	Moved Permanently for luisnascimento.com/?p=4440
+13:21:38	Warning: 	File has moved from luisnascimento.com/?p=4440 to http://luisnascimento.com/2017/12/15/cru-raw/
+13:21:38	Warning: 	Moved Permanently for luisnascimento.com/?p=4431
+13:21:38	Warning: 	File has moved from luisnascimento.com/?p=4431 to http://luisnascimento.com/2017/08/15/exploratory-camp-by-vicara/
+13:21:38	Warning: 	Moved Permanently for luisnascimento.com/?p=4294
+13:21:38	Warning: 	File has moved from luisnascimento.com/?p=4294 to http://luisnascimento.com/2017/04/03/off-portugal/
+13:21:38	Warning: 	Moved Permanently for luisnascimento.com/?p=4276
+13:21:38	Warning: 	File has moved from luisnascimento.com/?p=4276 to http://luisnascimento.com/2017/02/06/seminar-at-ipca/
+13:21:38	Warning: 	Moved Permanently for luisnascimento.com/?p=4280
+13:21:38	Warning: 	File has moved from luisnascimento.com/?p=4280 to http://luisnascimento.com/2017/01/06/idpool-vista-alegre/
+13:21:44	Warning: 	Moved Permanently for luisnascimento.com/?p=4240
+13:21:44	Warning: 	File has moved from luisnascimento.com/?p=4240 to http://luisnascimento.com/2016/10/08/designindustry/
+13:22:43	Error: 	"Not Found" (404) at link luisnascimento.com/wp-content/plugins/gallery-images/assets/images/blank.gif (from luisnascimento.com/wp-content/plugins/gallery-images/assets/style/lightbox.css?ver=5.2.18)
+13:22:43	Error: 	"Not Found" (404) at link luisnascimento.com/wp-content/plugins/gallery-images/assets/images/prev.gif (from luisnascimento.com/wp-content/plugins/gallery-images/assets/style/lightbox.css?ver=5.2.18)
+13:22:43	Error: 	"Not Found" (404) at link luisnascimento.com/wp-content/plugins/gallery-images/assets/images/next.gif (from luisnascimento.com/wp-content/plugins/gallery-images/assets/style/lightbox.css?ver=5.2.18)
+13:22:43	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/janacuadra/luisnascimento.com/wp-content/plugins/gallery-images/assets/style/src/iconFont.svg
+13:23:40	Warning: 	Moved Permanently for luisnascimento.com/?p=4207
+13:23:40	Warning: 	File has moved from luisnascimento.com/?p=4207 to http://luisnascimento.com/2016/10/01/nao-apenas-lugares-de-felicidade/
+13:23:40	Warning: 	Moved Permanently for luisnascimento.com/?p=4180
+13:23:40	Warning: 	File has moved from luisnascimento.com/?p=4180 to http://luisnascimento.com/2016/07/25/handlewithcare/
+13:23:41	Warning: 	Moved Permanently for luisnascimento.com/?p=4140
+13:23:41	Warning: 	File has moved from luisnascimento.com/?p=4140 to http://luisnascimento.com/2016/06/02/caldas-design-week-0/
+13:23:41	Warning: 	Moved Permanently for luisnascimento.com/?p=4165
+13:23:41	Warning: 	File has moved from luisnascimento.com/?p=4165 to http://luisnascimento.com/2016/05/26/design-to-connect/
+13:23:41	Warning: 	Moved Permanently for luisnascimento.com/?p=4119
+13:23:41	Warning: 	File has moved from luisnascimento.com/?p=4119 to http://luisnascimento.com/2016/04/06/objects-after-objects/
+13:23:41	Warning: 	Moved Permanently for luisnascimento.com/?p=4099
+13:23:41	Warning: 	File has moved from luisnascimento.com/?p=4099 to http://luisnascimento.com/2015/12/01/design-and-design-award-2015/
+13:23:41	Warning: 	Moved Permanently for luisnascimento.com/?p=4093
+13:23:41	Warning: 	File has moved from luisnascimento.com/?p=4093 to http://luisnascimento.com/2015/11/15/desire-tension-transition/
+13:23:41	Warning: 	Moved Permanently for luisnascimento.com/?p=4049
+13:23:41	Warning: 	File has moved from luisnascimento.com/?p=4049 to http://luisnascimento.com/2015/10/01/portugal-by-design/
+13:23:41	Warning: 	Moved Permanently for luisnascimento.com/?p=4042
+13:23:41	Warning: 	File has moved from luisnascimento.com/?p=4042 to http://luisnascimento.com/2015/09/01/leve-at-sao-paulo/
+13:23:41	Warning: 	Moved Permanently for luisnascimento.com/?p=3434
+13:23:41	Warning: 	File has moved from luisnascimento.com/?p=3434 to http://luisnascimento.com/2014/12/22/porttitor-porttitor-mollis-vitae-placerat-2-2/
+13:23:41	Warning: 	Moved Permanently for luisnascimento.com/?p=3743
+13:23:41	Warning: 	File has moved from luisnascimento.com/?p=3743 to http://luisnascimento.com/2014/12/20/design-and-design-award/
+13:23:41	Warning: 	Moved Permanently for luisnascimento.com/?p=8
+13:23:41	Warning: 	File has moved from luisnascimento.com/?p=8 to http://luisnascimento.com/2014/06/30/here-there-everywhere/
+13:23:41	Warning: 	Moved Permanently for luisnascimento.com/?p=3745
+13:23:41	Warning: 	File has moved from luisnascimento.com/?p=3745 to http://luisnascimento.com/2014/02/02/pencil-for-blackcork/
+13:23:41	Warning: 	Moved Permanently for luisnascimento.com/?p=3429
+13:23:41	Warning: 	File has moved from luisnascimento.com/?p=3429 to http://luisnascimento.com/2013/12/17/video-post/
+13:23:41	Warning: 	Moved Permanently for luisnascimento.com/?p=3481
+13:23:41	Warning: 	File has moved from luisnascimento.com/?p=3481 to http://luisnascimento.com/2013/11/06/amazing-post-with-all-the-goodies-2/
+13:23:41	Warning: 	Moved Permanently for luisnascimento.com/?p=3952
+13:23:41	Warning: 	File has moved from luisnascimento.com/?p=3952 to http://luisnascimento.com/2013/01/24/conversas-xxxiv/
+13:23:41	Warning: 	Moved Permanently for luisnascimento.com/?p=2677
+13:23:41	Warning: 	File has moved from luisnascimento.com/?p=2677 to http://luisnascimento.com/2012/10/03/be-my-guest/
+13:23:41	Warning: 	Moved Permanently for luisnascimento.com/?p=3750
+13:23:41	Warning: 	File has moved from luisnascimento.com/?p=3750 to http://luisnascimento.com/2012/07/25/design-a-mao/
+13:23:41	Warning: 	Moved Permanently for luisnascimento.com/?p=1
+13:23:41	Warning: 	File has moved from luisnascimento.com/?p=1 to http://luisnascimento.com/2011/10/05/ola-mundo/
+13:23:41	Warning: 	Moved Permanently for luisnascimento.com/?p=3754
+13:23:41	Warning: 	File has moved from luisnascimento.com/?p=3754 to http://luisnascimento.com/2010/06/18/sardinha-ao-sal/
+13:23:52	Warning: 	Moved Permanently for luisnascimento.com/?p=110
+13:23:52	Warning: 	File has moved from luisnascimento.com/?p=110 to http://luisnascimento.com/2009/09/14/the-field/
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 16 minutes 18 seconds : 858 links scanned, 784 files written (113114341 bytes overall) [114033434 bytes received at 24909 bytes/sec], 1.6 requests per connection
+(11 errors, 128 warnings, 0 messages)
